@@ -8,9 +8,9 @@ Given a time-series of sensor data, classify whether it corresponds to a bird or
 
 The data is in two files:
 
-**training.txt** - 20 samples (10 bird, 10 plane). Each sample has a 50 length time-series.
+**training.txt** - 20 tracks (10 bird, 10 plane). Each sample has a 600 length time-series.
 
-**testing.txt** - 10 unlabeled time-series samples to predict
+**testing.txt** - 10 unlabeled time-series tracks to predict
 
 ## Approach
 
